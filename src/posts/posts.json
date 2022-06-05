@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Juin 2022",
+    "url": "06-2022",
+    "posts": [
+      {
+        "id": 4,
+        "folder": "2022",
+        "url": "exemple",
+        "created_date": "4 juin 2022",
+        "title": "Créer une cohort avec un jupyter notebook",
+        "description": "flemme d'écrire",
+        "type": "article"
+      },
+      {
+        "id": 3,
+        "folder": "2022",
+        "url": "twitter-network-x",
+        "created_date": "2 juin 2022",
+        "title": "Visualiser une communauté twitter grâce à NetworkX en partant d'un profil twitter",
+        "description": "flemme d'écrire",
+        "type": "article"
+      }
+    ]
+  },
+  {
+    "name": "Mai 2022",
+    "url": "05-2022",
+    "posts": [
+      {
+        "id": 2,
+        "folder": "2022",
+        "url": "https://www.youtube.com/watch?v=qRd36fJtjlk&t=2583s",
+        "created_date": "15 mai 2022",
+        "title": "Nom de conférence basique",
+        "description": "flemme d'écrire",
+        "type": "conférence"
+      },
+      {
+        "id": 1,
+        "folder": "2022",
+        "url": "https://www.youtube.com/watch?v=qRd36fJtjlk&t=2583s",
+        "created_date": "3 mai 2022",
+        "title": "Nom d'évènement organisé il y à longtemps",
+        "description": "flemme d'écrire",
+        "type": "organisateur"
+      }
+    ]
+  }
+]
